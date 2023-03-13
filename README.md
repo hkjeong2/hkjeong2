@@ -1,4 +1,4 @@
-### Hi, this is Hyun Kyu Jeong.  👋
+### Hi, this is HyunKyu Jeong.  👋
 
 <!--
 **hkjeong2/hkjeong2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
